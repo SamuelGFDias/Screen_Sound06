@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScreenSound.Shared.Modelos", "ScreenSound.Shared.Modelos\ScreenSound.Shared.Modelos.csproj", "{461E9EA1-705D-4D48-BBEC-8991F459AF05}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScreenSound.Shared.Data", "ScreenSound.Shared.Data\ScreenSound.Shared.Data.csproj", "{76F49AF7-C298-47D4-A054-46DC77CD730D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScreenSound.API", "ScreenSound.API\ScreenSound.API.csproj", "{F521AA3C-72AD-40C8-AF48-15CA80758C8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{461E9EA1-705D-4D48-BBEC-8991F459AF05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{461E9EA1-705D-4D48-BBEC-8991F459AF05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{461E9EA1-705D-4D48-BBEC-8991F459AF05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{461E9EA1-705D-4D48-BBEC-8991F459AF05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76F49AF7-C298-47D4-A054-46DC77CD730D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76F49AF7-C298-47D4-A054-46DC77CD730D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76F49AF7-C298-47D4-A054-46DC77CD730D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76F49AF7-C298-47D4-A054-46DC77CD730D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F521AA3C-72AD-40C8-AF48-15CA80758C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F521AA3C-72AD-40C8-AF48-15CA80758C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F521AA3C-72AD-40C8-AF48-15CA80758C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F521AA3C-72AD-40C8-AF48-15CA80758C8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECD82CB8-02FB-43BD-B618-228152BAF99A}
+	EndGlobalSection
+EndGlobal
